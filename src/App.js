@@ -1,0 +1,11 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+import MainPage from './MainPage';
+
+function App() {
+  return (
+      <MainPage />
+  );
+}
+
+export default App;
